@@ -1,0 +1,22 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohaaJnr/JS-game.git"
+  },
+  "author": "Johaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohaaJnr/JS-game/issues"
+  },
+  "homepage": "https://JohaaJnr.github.io/JS-game",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
